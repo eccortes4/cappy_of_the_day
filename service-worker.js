@@ -1,0 +1,1 @@
+import './cappy-sw.js'
